@@ -91,7 +91,7 @@
     //typed js
     $(".typed").typed({
         strings: ["My name is Josh Trup", "I'm a Computer Science and Managment Science Student at the University of Edinburgh"],
-        typeSpeed: 450,
+        typeSpeed: 50,
         backDelay: 900,
         // loop
         loop: true
