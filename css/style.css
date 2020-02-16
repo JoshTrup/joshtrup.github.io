@@ -1211,7 +1211,7 @@ ul.portfolio-image1 li .desc{
 .socials li {
   display: inline-block;
   list-style: outside none none;
-  float: center;
+  float: left;
   overflow: hidden;
   width: 50%;
   font-size: 13px;
