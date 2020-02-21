@@ -994,7 +994,7 @@ ul.portfolio-image1 li .desc{
   width: 100%;
 }
 .bg-about {
-  background: url('../images/josh.jpeg');
+  background: url('../images/josh.png');
   background-size: contain;
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
